@@ -27,3 +27,8 @@ http://127.0.0.1:8000/
 - Reorder tasks with drag and drop feature. Priority should automatically be updated
 - Reorder works over Task serial numbers (below # sign column in Manage Tasks page)
 - Application screenshots are provided below
+
+## Application Screenshots
+<img width="1920" height="891" alt="Image" src="https://github.com/user-attachments/assets/cd9eaf1d-6c85-48b4-b3a9-f22035731546" />
+<img width="960" height="437" alt="Image" src="https://github.com/user-attachments/assets/b9d9d4fa-5211-4109-98de-32d2eb874d00" />
+<img width="960" height="506" alt="Image" src="https://github.com/user-attachments/assets/8d33ce1f-c0c1-43ca-aff5-3f7837eb7491" />
